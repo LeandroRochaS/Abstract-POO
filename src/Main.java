@@ -9,6 +9,5 @@ public class Main {
         System.out.println("Hello");
 
         Mentoria mentoria1 = new Mentoria("Mentoria de Java Spring", "Descrição", LocalDate.now());
-        System.out.println(mentoria1.toString());
         }
     }
